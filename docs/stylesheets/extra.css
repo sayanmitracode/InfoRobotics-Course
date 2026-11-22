@@ -1,0 +1,41 @@
+/* Palette shared with the course-notes figures (readings/figs/notes_style.py). */
+:root {
+  --ibr-blue: #4A82C4;
+  --ibr-blue-dark: #33618F;
+  --ibr-orange: #CC7A33;
+  --ibr-blue-tint: #E4EDF7;
+  --ibr-orange-tint: #F6E9DC;
+}
+
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--ibr-blue-dark);
+  --md-primary-fg-color--light: var(--ibr-blue);
+  --md-primary-fg-color--dark: #264A6E;
+  --md-primary-bg-color: #FFFFFF;
+}
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: var(--ibr-orange);
+  --md-accent-fg-color--transparent: rgba(204, 122, 51, 0.1);
+}
+[data-md-color-scheme="default"] { --md-typeset-a-color: var(--ibr-blue-dark); }
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #8DB4E2;
+  --ibr-blue-tint: #22303F;
+  --ibr-orange-tint: #3A2C20;
+}
+
+/* Home page header */
+.ibr-hero { padding: 0.4rem 0 0.8rem; border-bottom: 3px solid var(--ibr-orange); margin-bottom: 1.2rem; }
+.ibr-hero .term { color: var(--ibr-orange); font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.75rem; }
+.ibr-hero h1 { margin: 0.2rem 0 0.4rem; }
+.ibr-hero p { margin: 0.2rem 0; font-size: 0.85rem; }
+
+/* Schedule table: part headers on a tint, link words small */
+.md-typeset table:not([class]) { font-size: 0.72rem; }
+.md-typeset table:not([class]) td strong { color: var(--ibr-blue-dark); }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) td strong { color: #8DB4E2; }
+.md-typeset table:not([class]) tr:has(td:first-child:empty) { background: var(--ibr-blue-tint); }
+
+/* Announcements */
+.md-typeset .announce li { margin-bottom: 0.2rem; }
+.md-typeset .announce li > strong:first-child { color: var(--ibr-orange); }

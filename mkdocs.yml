@@ -1,0 +1,68 @@
+site_name: "ECE 598 IBR: Information Bottlenecks in Robotics"
+site_description: Graduate course, University of Illinois Urbana-Champaign, Spring 2027
+site_author: Sayan Mitra
+site_url: https://sayanmitracode.github.io/InfoRobotics-Course/
+repo_url: https://github.com/sayanmitracode/InfoRobotics-Course
+
+nav:
+  - Home: index.md
+  - Administrivia: info.md
+  - Schedule: schedule.md
+  - Exercises: exercises.md
+  - Project: project.md
+  - Resources: resources.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  icon:
+    logo: material/radio-tower
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: Sayan Mitra, University of Illinois Urbana-Champaign
