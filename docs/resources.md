@@ -32,4 +32,4 @@ S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027. Chapters a
 
 ## Software
 
-Simulators, data sets and budget-enforcing software for the exercises will be listed here.
+Simulators, data sets and budget-enforcing software for the projects will be listed here.

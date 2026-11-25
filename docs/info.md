@@ -25,7 +25,7 @@ Students will be able to:
 
 - **Time:** Monday and Wednesday, 9:30 to 10:50 am.
 - **Place:** 4070 Electrical and Computer Engineering Building.
-- **Format:** blackboard lectures. Each lecture proves one main theorem and connects it to a programming exercise or an experiment.
+- **Format:** blackboard lectures. Each lecture proves one main theorem and connects it to an experiment that a project can build on.
 - **Recordings:** to be announced.
 
 ## Staff and office hours
