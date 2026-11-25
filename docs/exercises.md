@@ -1,6 +1,6 @@
 # Exercises
 
-Programming exercises make up 40% of the grade. There are about eight, each tied to a lecture's theorem. An exercise asks for three numbers: the lower bound the theorem gives, the performance of an algorithm you implement, and the gap between them. Simulators, flight data, platform datasheets and budget-enforcing software are provided. No hardware is required.
+There are about eight programming exercises, each tied to a lecture's theorem. An exercise asks for three numbers: the lower bound the theorem gives, the performance of an algorithm you implement, and the gap between them. Simulators, flight data, platform datasheets and budget-enforcing software are provided. No hardware is required.
 
 Exercises are distributed and submitted through GitHub repositories. Setup instructions will be posted here before the first exercise.
 

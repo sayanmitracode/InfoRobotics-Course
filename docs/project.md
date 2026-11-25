@@ -1,13 +1,14 @@
 # Project
 
-The term project is 40% of the grade. Choose a task and a platform budget, derive a lower bound with one of the course's techniques, implement an algorithm in simulation or on data, and report the gap between the two.
+The class project is 50% of the grade. Choose a task and a platform budget, derive a lower bound with one of the course's techniques, implement an algorithm in simulation or on data, and report the gap between the two.
 
 ## Milestones
 
 | Milestone | Date |
 |:--|:--|
-| Proposal | to be announced |
-| Presentations | last three lectures |
+| Pitch | Mon 2/22 |
+| Midpoint check-in | Wed 3/24 and Mon 3/29 |
+| Presentations | Mon 5/3 and Wed 5/5 |
 | Written report | to be announced |
 
 ## Questions to answer in the proposal

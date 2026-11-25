@@ -40,9 +40,9 @@ S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027. Chapters a
 
 ## Grading
 
-- **Programming exercises, 40%.** About eight exercises, each tied to a lecture's theorem. Each exercise reports the bound, the achieved performance and the gap. See [Exercises](exercises.md).
-- **Term project, 40%.** Proposal, presentation and written report. See [Project](project.md).
-- **Examination, 20%.** One in-class examination (80 minutes) on proofs and calculations from Parts I and II.
+- **Participation, 10%.**
+- **Exams and quizzes, 40%.** In-class quizzes of 15 minutes, mostly multiple choice and true/false, on paper; the lowest quiz score is dropped.
+- **Class project, 50%.** Pitch, midpoint check-in, presentation and written report. See [Project](project.md).
 
 ## Policies
 
