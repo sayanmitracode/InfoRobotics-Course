@@ -40,7 +40,7 @@ S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027. Chapters a
 
 ## Grading
 
-- **Participation, 10%.**
+- **Participation, 10%.** Attendance, and peer review of other teams' project pitches, check-ins and presentations.
 - **Exams and quizzes, 40%.** In-class quizzes of 15 minutes, mostly multiple choice and true/false, on paper; the lowest quiz score is dropped.
 - **Class project, 50%.** Pitch, midpoint check-in, presentation and written report. See [Project](project.md).
 
