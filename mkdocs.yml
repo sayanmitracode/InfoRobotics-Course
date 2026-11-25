@@ -8,8 +8,11 @@ nav:
   - Home: index.md
   - Administrivia: info.md
   - Schedule: schedule.md
-  - Project: project.md
   - Resources: resources.md
+
+# Drafts kept in the repo but not published.
+exclude_docs: |
+  project.md
 
 theme:
   name: material
