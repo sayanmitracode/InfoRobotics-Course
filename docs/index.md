@@ -26,7 +26,7 @@ hide:
 | | |
 |:--|:--|
 | **Instructor** | [Sayan Mitra](https://mitras.ece.illinois.edu), mitras at illinois.edu |
-| **Lectures** | Tuesday and Thursday, 2:30 to 4:00 pm, room to be announced |
+| **Lectures** | Monday and Wednesday, 9:30 to 10:50 am, 4070 Electrical and Computer Engineering Building |
 | **Credit** | 4 graduate hours |
 | **Text** | S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027 (provided) |
 | **Discussion** | To be announced |

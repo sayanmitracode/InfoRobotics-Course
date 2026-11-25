@@ -23,8 +23,8 @@ Students will be able to:
 
 ## Lectures
 
-- **Time:** Tuesday and Thursday, 2:30 to 4:00 pm.
-- **Place:** to be announced.
+- **Time:** Monday and Wednesday, 9:30 to 10:50 am.
+- **Place:** 4070 Electrical and Computer Engineering Building.
 - **Format:** blackboard lectures. Each lecture proves one main theorem and connects it to a programming exercise or an experiment.
 - **Recordings:** to be announced.
 
