@@ -49,5 +49,3 @@ S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027. Chapters a
 **Collaboration.** To be announced.
 
 **Use of AI tools.** To be announced.
-
-**Absences.** Absences for medical or personal emergencies are handled through a letter from the Office of the Dean of Students.
