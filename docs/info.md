@@ -46,8 +46,6 @@ S. Mitra, *Information Bottlenecks in Robotics*, lecture notes, 2027. Chapters a
 
 ## Policies
 
-**Late work.** To be announced.
-
 **Collaboration.** To be announced.
 
 **Use of AI tools.** To be announced.
